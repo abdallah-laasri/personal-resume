@@ -51,15 +51,15 @@ const About = () => {
             </Li>
             <Li>
               <LeftSpan>Address :</LeftSpan>
-              <RightSpan>Zawia, Aourir</RightSpan>
+              <RightSpan> Aourir</RightSpan>
             </Li>
             <Li>
               <LeftSpan>Email :</LeftSpan>
-              <RightSpan> abdallahlaasri3@gmail.com</RightSpan>
+              <RightSpan> abdocoder@gmail.com</RightSpan>
             </Li>
             <Li>
               <LeftSpan>Phone :</LeftSpan>
-              <RightSpan>(+212) 687252319</RightSpan>
+              <RightSpan>(+212) 665677808</RightSpan>
             </Li>
           </Ul>
         </Info>
